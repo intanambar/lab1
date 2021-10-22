@@ -1,6 +1,6 @@
 # lab1
 ## Latihan Python
 
-![Gambar1](SS1.png)<p>
+![Gambar1](SS1.png)
 
 Sekian dan terimakasih
